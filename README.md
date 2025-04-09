@@ -1,5 +1,9 @@
 # LexiTale
 
+![Build](https://github.com/xavier2code/lexitale/workflows/build/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+
 LexiTale is an innovative vocabulary learning tool that intelligently generates contextual short stories based on user-imported word lists. By creating engaging narratives incorporating target vocabulary and providing comprehension quizzes, it helps users learn new words in meaningful contexts.
 
 ## 🌟 Key Features
@@ -23,6 +27,7 @@ cd lexitale
 
 # Install dependencies
 npm install
+```
 
 ## Usage
 1. Import your vocabulary list
