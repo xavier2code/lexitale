@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LexiTale
 
-## Getting Started
+LexiTale is an innovative vocabulary learning tool that intelligently generates contextual short stories based on user-imported word lists. By creating engaging narratives incorporating target vocabulary and providing comprehension quizzes, it helps users learn new words in meaningful contexts.
 
-First, run the development server:
+## 🌟 Key Features
+
+- 📚 Custom vocabulary list import
+- 📝 AI-powered story generation using target words
+- 🎯 Multiple-choice comprehension questions
+- 📊 Learning progress tracking
+- 🔄 Multiple learning modes
+
+## 🚀 Getting Started
+
+### Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Clone the repository
+git clone https://github.com/your-username/lexitale.git
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Navigate to project directory
+cd lexitale
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Install dependencies
+npm install
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Usage
+1. Import your vocabulary list
+2. Select the number of words to learn
+3. Generate learning materials
+4. Start reading and testing
 
-## Learn More
+## 🛠️ Tech Stack
+- Frontend: React.js
+- Backend: Node.js
+- Database: MongoDB
+- AI: OpenAI API
 
-To learn more about Next.js, take a look at the following resources:
+## 📋 Roadmap
+- Support multiple file formats for import
+- Add progress saving functionality
+- Implement word review reminders
+- Optimize text generation algorithm
+- Add more question types
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 Contributing
+This project is licensed under the MIT License - see the LICENSE file for details
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👥 Contact
+- Author: [xavier2code]
+- GitHub: [https://github.com/xavier2code]
+- Email: [xavier2code@gmail.com]
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🙏 Acknowledgments
+Thanks to all contributors who have helped with this project!
