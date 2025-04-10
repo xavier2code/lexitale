@@ -1,7 +1,5 @@
 # LexiTale
 
-![Build](https://github.com/xavier2code/lexitale/workflows/build/badge.svg)
-![Code Coverage](https://img.shields.io/codecov/c/github/xavier2code/lexitale)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
